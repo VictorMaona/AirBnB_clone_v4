@@ -11,5 +11,4 @@ Victor Maona -email: address maonavictor@gmail.com
 
 The project's goal is to improve knowledge and skills in web development, 
 API interactions, and dynamic content manipulation with Python, Flask, JavaScript, 
-nd jQuery. The cloning of the AirBnB platform serves as a practical exercise in putting 
-these ideas into practice.
+nd jQuery.
